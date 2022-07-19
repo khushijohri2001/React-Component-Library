@@ -1,0 +1,27 @@
+.avatars {
+  display: flex;
+}
+
+img {
+  width: 2rem;
+}
+
+.larger-img {
+  width: 12rem;
+}
+
+.large-img {
+  width: 10rem;
+}
+
+.medium-img {
+  width: 8rem;
+}
+
+.small-img {
+  width: 6rem;
+}
+
+.smaller-img {
+  width: 4rem;
+}
