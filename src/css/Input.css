@@ -1,0 +1,65 @@
+/*  */
+
+.primary-inputs {
+  border: 1px var(--sixth-color) solid;
+  display: inline-block;
+}
+
+.primary-inputs div {
+  margin: 1rem;
+}
+
+.email-input {
+  border: none;
+  border-bottom: 2px solid;
+}
+
+.email-input::placeholder {
+  font-weight: bold;
+  color: var(--sixth-color);
+}
+
+.password-input {
+  border: none;
+  border-bottom: 2px solid;
+}
+
+.password-input::placeholder {
+  font-weight: bold;
+  color: var(--sixth-color);
+}
+
+.error-inputs {
+  border: 1px var(--sixth-color) solid;
+  display: inline-block;
+}
+
+.error-inputs div {
+  margin: 1rem 1rem 0rem 1rem;
+}
+
+.error-email-input {
+  border: none;
+  border-bottom: 2px solid;
+}
+
+.error-email-input::placeholder {
+  font-weight: bold;
+  color: var(--sixth-color);
+}
+
+.error-password-input {
+  border: none;
+  border-bottom: 2px solid;
+}
+
+.error-password-input::placeholder {
+  font-weight: bold;
+  color: var(--sixth-color);
+}
+
+.input-message {
+  margin-top: 0rem;
+  color: rgb(224, 2, 2);
+  font-weight: bolder;
+}
