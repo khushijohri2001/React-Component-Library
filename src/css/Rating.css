@@ -1,0 +1,15 @@
+.standard-rating {
+  color: yellow;
+  margin: 1rem 0rem;
+}
+
+.rating-star {
+  background-color: rgb(119, 119, 119);
+  display: inline-block;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.star1:hover {
+  color: rgb(255, 217, 0);
+}
