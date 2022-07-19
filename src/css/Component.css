@@ -1,0 +1,76 @@
+/* Inputs Main */
+.component-container {
+  margin: 3rem;
+}
+
+.component-main-heading {
+  color: var(--forth-color);
+}
+
+.snippet iframe {
+  margin: 1rem 0;
+  width: 564px;
+  height: 200px;
+  border: 0;
+  transform: scale(1);
+  overflow: hidden;
+}
+
+.subtext {
+  margin: 1rem 0rem;
+  color: var(--ternary-color);
+  font-size: 1.2rem;
+}
+
+.subtext-2 {
+  margin: 4rem 0rem;
+  color: var(--ternary-color);
+  font-size: 3rem;
+}
+
+.snippet {
+  margin: 1rem 0rem;
+}
+
+.standard-text {
+  color: var(--forth-color);
+  margin: 1rem 0;
+}
+
+.list-main-area {
+  background-color: var(--ternary-color);
+  padding: 1rem;
+}
+
+.heading-text-utility-center {
+  text-align: center;
+}
+
+.gray-text {
+  color: rgb(136, 136, 136);
+}
+
+.heading-text-utility-bigger {
+}
+
+.heading-text-utility-medium {
+  color: var(--forth-color);
+  margin: 1rem 0rem;
+}
+
+.standard-headings {
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-bottom: 1rem;
+}
+.button-design {
+  box-sizing: border-box;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.9rem;
+  margin: 1rem 0rem;
+}
+
+.button-design-circle {
+  border-radius: 5rem;
+  padding: 0.3rem 0.3rem 0.1rem 0.3rem;
+}
