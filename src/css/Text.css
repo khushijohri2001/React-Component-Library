@@ -1,0 +1,29 @@
+.text {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--fifth-color);
+  padding: 1rem;
+  gap: 10px;
+}
+
+.heading-text-utility-center {
+  text-align: center;
+}
+
+.gray-text {
+  color: rgb(136, 136, 136);
+}
+
+.heading-text-utility-bigger {
+}
+
+.heading-text-utility-medium {
+  color: var(--forth-color);
+  margin: 1rem 0rem;
+}
+
+.header-title {
+  text-align: center;
+  flex-grow: 1;
+  color: var(--ternary-color);
+}
